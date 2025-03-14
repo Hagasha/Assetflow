@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "assetflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "javascript": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
